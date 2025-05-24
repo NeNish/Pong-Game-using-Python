@@ -1,6 +1,6 @@
 Here’s your `README.md` in **GitHub markdown format**, ready to copy and paste directly into your project repository:
 
-````markdown
+
 # 🕹️ Build Pong – The Famous Arcade Game
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
@@ -9,9 +9,6 @@ Here’s your `README.md` in **GitHub markdown format**, ready to copy and paste
 
 ---
 
-## 📸 Screenshot
-
-> *(Insert a screenshot of your game window here)*
 
 ![Pong Game Preview](https://user-images.githubusercontent.com/NeNish/pong_game_demo.png)
 
@@ -84,7 +81,7 @@ pong-game/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/NeNish)
+Made with ❤️ by E S Nishant(https://github.com/NeNish)
 Feel free to fork, improve, and share!
 
 ---
